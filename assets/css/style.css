@@ -1,0 +1,113 @@
+body{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background: #F5F76D;
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    border:3px solid purple;
+    width: 470px;
+
+}
+
+#time-remaining{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+
+#lakers-pic{
+    height: 250px;
+    width: 250px;   
+    position: relative;
+    right: 290px;
+    bottom: 400px;
+    border:5px solid purple;
+}
+
+#magic-pic{
+    height: 250px;
+    width: 250px;   
+    position: relative;
+    left: 250px;
+    bottom: 400px;
+    border:5px solid purple;
+}
+
+#kobe-pic{
+    height: 250px;
+    width: 250px;   
+    position: relative;
+    left: 510px;
+    bottom: 300px;
+    border:5px solid purple;
+}
+
+#kareem-pic{
+    height: 250px;
+    width: 250px;
+    position: relative;  
+    right: 550px; 
+    bottom: 300px;
+    border:5px solid purple;
+}
+
+#start{
+    background-color: purple;
+    width:800px; 
+    height: 400px; line-height: 200px;
+    position: absolute;
+    top: 30%; margin-top:-100px;
+    left: 50%; margin-left:-400px;
+    font-weight: bold;
+    font-size: 100px;
+    text-transform: uppercase;
+    color: yellow; text-align:center
+}
+
+#finish{
+    color: yellow;
+    background: purple;
+    margin: auto;
+    font-size: 50px;
+    width: 40%;
+    padding: 20px;
+    position: relative;
+    bottom: 405px;
+}
+
+#last{
+    color: purple;
+    font-size: 50px;
+    border-style: solid;
+    border-width: 5px;    
+    margin: auto;
+    width: 50%;
+    position: relative;
+    top: 130px;
+    height: 370px;
+
+}
+
+#laker-gif{
+    margin: auto;
+    width: 47%;
+    position: relative;
+    bottom: 110px;
+    left: 170px;
+    
+}
+
+#reset-button{
+    padding: 5px;
+    position: relative;
+    right: 150px;
+    background: purple;
+    color: yellow;
+}
